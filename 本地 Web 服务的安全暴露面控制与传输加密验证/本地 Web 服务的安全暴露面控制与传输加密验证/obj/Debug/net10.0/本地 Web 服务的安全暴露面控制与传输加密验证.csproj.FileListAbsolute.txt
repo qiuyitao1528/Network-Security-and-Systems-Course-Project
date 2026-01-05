@@ -1,0 +1,34 @@
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\bin\Debug\net10.0\appsettings.Development.json
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\bin\Debug\net10.0\appsettings.json
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\bin\Debug\net10.0\本地 Web 服务的安全暴露面控制与传输加密验证.staticwebassets.endpoints.json
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\bin\Debug\net10.0\本地 Web 服务的安全暴露面控制与传输加密验证.exe
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\bin\Debug\net10.0\本地 Web 服务的安全暴露面控制与传输加密验证.deps.json
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\bin\Debug\net10.0\本地 Web 服务的安全暴露面控制与传输加密验证.runtimeconfig.json
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\bin\Debug\net10.0\本地 Web 服务的安全暴露面控制与传输加密验证.dll
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\bin\Debug\net10.0\本地 Web 服务的安全暴露面控制与传输加密验证.pdb
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\本地 Web 服务的安全暴露面控制与传输加密验证.csproj.AssemblyReference.cache
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\本地 Web 服务的安全暴露面控制与传输加密验证.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\本地 Web 服务的安全暴露面控制与传输加密验证.AssemblyInfoInputs.cache
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\本地 Web 服务的安全暴露面控制与传输加密验证.AssemblyInfo.cs
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\本地 Web 服务的安全暴露面控制与传输加密验证.csproj.CoreCompileInputs.cache
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\本地 Web 服务的安全暴露面控制与传输加密验证.MvcApplicationPartsAssemblyInfo.cs
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\本地 Web 服务的安全暴露面控制与传输加密验证.MvcApplicationPartsAssemblyInfo.cache
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\scopedcss\bundle\本地 Web 服务的安全暴露面控制与传输加密验证.styles.css
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\staticwebassets.build.json
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\staticwebassets.development.json
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\swae.build.ex.cache
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\__ Web _.15EDEE69.Up2Date
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\本地 Web 服务的安全暴露面控制与传输加密验证.dll
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\refint\本地 Web 服务的安全暴露面控制与传输加密验证.dll
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\本地 Web 服务的安全暴露面控制与传输加密验证.pdb
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\本地 Web 服务的安全暴露面控制与传输加密验证.genruntimeconfig.cache
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\ref\本地 Web 服务的安全暴露面控制与传输加密验证.dll
+E:\VS code project\本地 Web 服务的安全暴露面控制与传输加密验证\本地 Web 服务的安全暴露面控制与传输加密验证\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

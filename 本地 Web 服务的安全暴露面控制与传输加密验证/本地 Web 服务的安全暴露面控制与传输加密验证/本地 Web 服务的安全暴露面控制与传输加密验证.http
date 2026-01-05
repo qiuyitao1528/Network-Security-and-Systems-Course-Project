@@ -1,0 +1,6 @@
+@本地_Web_服务的安全暴露面控制与传输加密验证_HostAddress = http://localhost:5146
+
+GET {{本地_Web_服务的安全暴露面控制与传输加密验证_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

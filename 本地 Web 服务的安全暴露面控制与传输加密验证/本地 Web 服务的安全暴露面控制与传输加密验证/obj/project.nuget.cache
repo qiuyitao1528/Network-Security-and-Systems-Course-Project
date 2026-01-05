@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8I4q3X4xk3M=",
+  "success": true,
+  "projectFilePath": "E:\\VS code project\\本地 Web 服务的安全暴露面控制与传输加密验证\\本地 Web 服务的安全暴露面控制与传输加密验证\\本地 Web 服务的安全暴露面控制与传输加密验证.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
