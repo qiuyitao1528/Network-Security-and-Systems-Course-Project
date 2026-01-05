@@ -1,7 +1,3 @@
-# Network-Security-and-Systems-Course-Project
-
-
-
 # 本地 Web 服务的安全暴露面控制与传输加密验证
 
 ## 项目简介
